@@ -46,7 +46,15 @@ The **Fruit Spoilage Detector** is an IoT-based system designed to monitor and d
 5. User monitors real-time data and receives notifications
 
 ---
+## Libraries Used
 
+1. Adafruit Unified sensor
+2. ArduinoJson
+3. DHT sensor library
+4. ESP Mail Client
+5. IRremote
+6. UniversalTelegramBot
+---
 ## 🔬 Working Principle
 
 Fruits release specific gases (like ethylene, ammonia, etc.) during ripening and spoilage.
